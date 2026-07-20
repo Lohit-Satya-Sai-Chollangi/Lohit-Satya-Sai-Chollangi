@@ -1,7 +1,15 @@
-👋 Hi, I’m Lohit Satya Sai Chollangi — a Business Analyst, AI Explorer, and Creative Problem Solver with a passion for data, dashboards, and dance.  
-🎓 I hold a Master’s in Business Analytics and Project Management (Data Science) from UConn.  
-👀 I’m interested in Data Analytics, Machine Learning, Forecasting, Generative AI, and building intelligent chatbots.  
-🌱 Currently exploring Generative AI and refining an AI-powered trading assistant that handles 10K+ queries/day.  
-💞️ Open to collaborating on data-driven projects across industries — and actively seeking full-time roles in data and AI.  
-📫 Reach me at: chollangilohitsatyasai@gmail.com  
-😄 Pronouns: he/him  
+### 👋 Hi, I'm Lohit Satya Sai Chollangi
+
+**Data Analyst** who turns messy data into clear, decision-ready insight — with a passion for data, dashboards, and dance.
+
+🎓 Master's in Business Analytics & Project Management (Data Science), UConn
+
+🔧 **Toolkit:** SQL · Python · Pandas · Data Visualization · Statistical Analysis
+
+👀 Interested in Data Analytics, Machine Learning, Forecasting, and Generative AI
+
+🌱 Currently deepening my work in Machine Learning and Generative AI
+
+💞️ Open to data-driven collaborations — and actively seeking full-time **Data Analyst** roles
+
+📫 chollangilohitsatyasai@gmail.com  ·  he/him
