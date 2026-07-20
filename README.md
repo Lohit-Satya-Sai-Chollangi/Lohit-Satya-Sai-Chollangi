@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Lohit Satya Sai Chollangi
 
-**Data Analyst** who turns messy data into clear, decision-ready insight — with a passion for data, dashboards, and dance.
+**Data Analyst** who turns messy data into clear, decision-ready insight with a passion for data, dashboards, and dance.
 
 🎓 Master's in Business Analytics & Project Management (Data Science), UConn
 
